@@ -2,6 +2,20 @@
 
 Welcome to **Kettle**, a high-end e-commerce platform designed for elegance and performance. This project showcases a modern, full-stack shopping application built with **Laravel**, **Tailwind CSS**, and **Livewire**.
 
+## 📸 Project Gallery
+
+### Immersive Authentication
+A distraction-free, glassmorphism-enhanced portal for seamless user access.
+![Auth Portal](public/screenshots/login.png)
+
+### Dashboard - Deep Dark Neon
+Manage your orders in a premium dark environment with neon accents.
+![Order History](public/screenshots/order.png)
+
+### Homepage Experience
+From our Vintage Collection to the Member-Exclusive professional series.
+![Homepage](public/screenshots/Kettle.png)
+
 ## 🌟 Key Features
 
 ### 💎 Exclusive Member Collection
@@ -94,19 +108,7 @@ The seeding process creates a default vendor account (optional) and you can regi
 - `database/seeders/MoreKitchenAppliancesSeeder.php` - Populates the "Pro Kitchen Series" appliances.
 - `resources/css/app.css` - Contains custom Tailwind animations and base styles.
 
-## 📸 Project Gallery
 
-### Immersive Authentication
-A distraction-free, glassmorphism-enhanced portal for seamless user access.
-![Auth Portal](public/screenshots/login.png)
-
-### Dashboard - Deep Dark Neon
-Manage your orders in a premium dark environment with neon accents.
-![Order History](public/screenshots/order.png)
-
-### Homepage Experience
-From our Vintage Collection to the Member-Exclusive professional series.
-![Homepage](public/screenshots/Kettle.png)
 
 ## 💡 Usage Guide
 
